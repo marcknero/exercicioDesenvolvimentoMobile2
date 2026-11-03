@@ -1,2 +1,17 @@
-# exercicioDesenvolvimentoMobile2
-Repositorio para entrega de exercicio da materia de Desenvolvimento Mobile 2
+# 📱 Desenvolvimento para Dispositivos Móveis II — Fatec
+
+Este repositório é destinado ao armazenamento, organização e versionamento dos exercícios e projetos práticos desenvolvidos durante as aulas da disciplina de **Desenvolvimento para Dispositivos Móveis II**.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Linguagem:** [Dart](https://dart.dev/)
+- **Framework:** [Flutter](https://flutter.dev/) (Material Design 3)
+- **IDE:** Visual Studio Code / Android Studio
+
+---
+
+| Aula | Tópico / Descrição | Código | Status |
+| :---: | :--- | :---: | :---: |
+| **Aula 05** | **Formulários e Validação:** Cadastro de participante com validação de e-mail, nome, telefone e CPF, controle de foco e navegação. | [Acessar Código](./ex_aula5/) | ✅ Concluído |
