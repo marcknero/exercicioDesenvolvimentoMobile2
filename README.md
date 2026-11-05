@@ -15,3 +15,4 @@ Este repositório é destinado ao armazenamento, organização e versionamento d
 | Aula | Tópico / Descrição | Código | Status |
 | :---: | :--- | :---: | :---: |
 | **Aula 05** | **Formulários e Validação:** Cadastro de participante com validação de e-mail, nome, telefone e CPF, controle de foco e navegação. | [Acessar Código](./ex_aula5/) | ✅ Concluído |
+| **Gerenciador localizações** | **captura e utilização de localizações** Aplicação com telas e captura de localizações e exibição dos dados. | [Acessar Código](./gerenciador_localizacoes/) | ✅ Concluído |
